@@ -3,7 +3,7 @@ function App() {
     <div>
       <h1>Vite+React+Bun+Template</h1>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
